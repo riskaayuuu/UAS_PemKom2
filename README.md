@@ -1,6 +1,7 @@
 # Aplikasi Pengelola Jadwal Kegiatan Berkebun
 
 **Latar Belakang**
+
 Banyak orang lupa jadwal menyiram atau memberi pupuk tanaman. Hal ini bisa membuat tanaman layu atau mati. Untuk itu, dibutuhkan aplikasi sederhana yang dapat membantu mengatur jadwal perawatan tanaman secara otomatis.
 
 **Tujuan**
